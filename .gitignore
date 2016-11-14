@@ -1,0 +1,9 @@
+#folder of libs
+libs/
+# folder of fonts
+fonts/
+*.jpg
+*.png
+*.psd
+*.zip
+
